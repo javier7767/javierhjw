@@ -1,4 +1,14 @@
-### Hi there 👋
+### ¡Hola! 👋
+
+Soy [Javier], un apasionado por el desarrollo de software. Me encanta [la tecnología web] y disfruto creando [proyectos] creativos y útiles, así como la gerencia de proyectos TI.
+
+- 🌱 Actualmente estoy aprendiendo [Tecnología web, Sql and Mysql].
+- 💬 Pregúntame sobre [UX/UI, experiencia de usuarios].
+- 📫 Cómo contactarme: [dm].
+- ⚡ Dato curioso: [interés en aportes tecnológicos en el campo empresarial].
+
+¡Espera pronto algunos de mis proyectos...!
+
 
 <!--
 **javierhjw/javierhjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
